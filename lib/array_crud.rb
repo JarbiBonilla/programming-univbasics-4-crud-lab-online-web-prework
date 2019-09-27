@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  the_office << "pam"
+  famous_dogs << ""
 p the_office
 end
 
