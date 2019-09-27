@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   the_office = ["Michael", "Dwight"]
   the_office << "Pam"
-p the_office  
+  p the_office  
 end
 
 def add_element_to_start_of_array(array, element)
